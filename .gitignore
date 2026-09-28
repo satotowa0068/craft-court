@@ -37,9 +37,7 @@ yarn-error.log*
 # vercel
 .vercel
 
-# prisma (SQLite datasource URLs resolve relative to prisma.config.ts, i.e. project root)
-/dev.db
-/dev.db-journal
+# prisma
 /src/generated/prisma
 
 # typescript
